@@ -1,4 +1,4 @@
-package com.example.funApp;
+package fun7App;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
