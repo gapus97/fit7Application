@@ -22,6 +22,12 @@ public class Users {
     public Users() {
     }
 
+    public Users(String timezone, String userId, String countryCode) {
+        this.timezone = timezone;
+        this.userId = userId;
+        this.countryCode = countryCode;
+    }
+
     public int getId() {
         return id;
     }
