@@ -10,3 +10,8 @@ spring:
     show-sql: true
 server:
   port: 8082
+externalapi:
+  url: https://us-central1-o7tools.cloudfunctions.net/fun7-ad-partner/
+  username: fun7user
+  password: fun7pass
+
